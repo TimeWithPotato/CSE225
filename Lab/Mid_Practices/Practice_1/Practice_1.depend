@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1693761674 source:e:\nsu\cse225\lab\mid_practices\practice_1\main.cpp
+	<bits/stdc++.h>
+	"practice_1.h"
+	"practice_1.cpp"
+
+1693761731 source:e:\nsu\cse225\lab\mid_practices\practice_1\practice_1.cpp
+	<bits/stdc++.h>
+	"practice_1.h"
+
+1693761577 e:\nsu\cse225\lab\mid_practices\practice_1\practice_1.h
+
+1693761731 e:\nsu\cse225\lab\mid_practices\practice_1\practice_1.cpp
+	<bits/stdc++.h>
+	"practice_1.h"
+

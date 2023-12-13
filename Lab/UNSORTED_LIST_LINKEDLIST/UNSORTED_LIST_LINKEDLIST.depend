@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1698298554 source:e:\nsu\cse225\lab\unsorted_list_linkedlist\main.cpp
+	<bits/stdc++.h>
+	"unsorted.h"
+	"unsorted.cpp"
+
+1697576797 source:e:\nsu\cse225\lab\unsorted_list_linkedlist\unsorted.cpp
+	<bits/stdc++.h>
+	"unsorted.h"
+
+1697577202 e:\nsu\cse225\lab\unsorted_list_linkedlist\unsorted.h
+
+1697576797 e:\nsu\cse225\lab\unsorted_list_linkedlist\unsorted.cpp
+	<bits/stdc++.h>
+	"unsorted.h"
+
+1697561332 source:e:\nsu\cse225\lab\unsorted_list_linkedlist\itemtype.cpp
+	<bits/stdc++.h>
+	"itemtype.h"
+
+1697561278 e:\nsu\cse225\lab\unsorted_list_linkedlist\itemtype.h
+

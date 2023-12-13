@@ -1,0 +1,8 @@
+1. pointers -> myList
+2. create node calded temp
+	temp.data -> 93
+	temp.next -> NULL 
+3. if(node.next!=NULL)
+	node++;
+   else
+	node.next = &temp

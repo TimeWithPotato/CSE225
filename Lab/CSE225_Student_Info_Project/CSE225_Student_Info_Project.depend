@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1699383832 source:e:\nsu\cse225\lab\cse225_student_info_project\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<dos.h>
+	"SortedList.h"
+	"Queue.h"
+
+1699383152 source:e:\nsu\cse225\lab\cse225_student_info_project\sortedlist.cpp
+	<bits/stdc++.h>
+	"SortedList.h"
+
+1699383152 e:\nsu\cse225\lab\cse225_student_info_project\sortedlist.h
+	<bits/stdc++.h>
+
+1699383072 source:e:\nsu\cse225\lab\cse225_student_info_project\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1699382981 e:\nsu\cse225\lab\cse225_student_info_project\queue.h
+	<bits/stdc++.h>
+
+1699219793 source:e:\nsu\cse225\lab\cse225_student_info_project\student.cpp
+	"Student.h"
+
+1699218648 e:\nsu\cse225\lab\cse225_student_info_project\student.h
+	<bits/stdc++.h>
+
+1699216584 e:\nsu\cse225\lab\cse225_student_info_project\sortedlist.cpp
+	<bits/stdc++.h>
+	"SortedList.h"
+
+1699214110 e:\nsu\cse225\lab\cse225_student_info_project\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+

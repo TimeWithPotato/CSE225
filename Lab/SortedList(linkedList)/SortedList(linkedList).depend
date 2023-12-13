@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1699172711 source:e:\nsu\cse225\lab\sortedlist(linkedlist)\main.cpp
+	<bits/stdc++.h>
+	"timeStamp.h"
+	"SortedType.h"
+	"SortedType.cpp"
+
+1699172132 source:e:\nsu\cse225\lab\sortedlist(linkedlist)\sortedtype.cpp
+	<bits/stdc++.h>
+	"sortedtype.h"
+
+1699171083 e:\nsu\cse225\lab\sortedlist(linkedlist)\sortedtype.h
+
+1699172354 source:e:\nsu\cse225\lab\sortedlist(linkedlist)\timestamp.cpp
+	"timeStamp.h"
+
+1699171119 e:\nsu\cse225\lab\sortedlist(linkedlist)\timestamp.h
+	<iostream>
+
+1699172132 e:\nsu\cse225\lab\sortedlist(linkedlist)\sortedtype.cpp
+	<bits/stdc++.h>
+	"sortedtype.h"
+
+1699171314 e:\nsu\cse225\lab\sortedlist(linkedlist)\timestamp.cpp
+	"TimeStamp.h"
+

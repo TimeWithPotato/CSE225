@@ -1,0 +1,12 @@
+1. Create a pointer - myList, temp
+2. Create a node -> (a) (node a)
+	a.data -> 5
+	temp = &a
+	myList = temp
+3. Create node -> (b)
+	b.data -> 6
+	a.next -> &b
+4. Repeat Step 3 as long as you don't reach MAX_ITEMS
+	
+	
+	

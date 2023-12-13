@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1694973086 source:e:\nsu\cse225\lab\unsorted_list_array_based\student\main.cpp
+	<bits/stdc++.h>
+	"Student.h"
+	"Student.cpp"
+
+1694973086 e:\nsu\cse225\lab\unsorted_list_array_based\student\student.h
+
+1694973086 e:\nsu\cse225\lab\unsorted_list_array_based\student\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+
+1694973086 source:e:\nsu\cse225\lab\unsorted_list_array_based\student\student.cpp
+	"Student.h"
+	<bits/stdc++.h>
+

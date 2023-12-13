@@ -1,0 +1,56 @@
+		Report on All Students
+
+  Previewing Student: 1
+
+	ID  		: 1
+	Name		: Arif
+	Credits		: Not Given
+	CGPA		: Not Given
+	DoB		: Not Given
+	Email		: Not Given
+	Contact		: Not Given
+	Address		: Not Given
+	Blood Group	: Not Given
+	Department	: Not Given
+	Semester	: Not Given
+	Paid?		: Not Given
+	Scholarship?	: Not Given
+	Graduated?	: Not Given
+
+
+  Previewing Student: 2
+
+	ID  		: 2
+	Name		: najifa
+	Credits		: Not Given
+	CGPA		: Not Given
+	DoB		: Not Given
+	Email		: Not Given
+	Contact		: Not Given
+	Address		: Not Given
+	Blood Group	: Not Given
+	Department	: Not Given
+	Semester	: Not Given
+	Paid?		: Not Given
+	Scholarship?	: Not Given
+	Graduated?	: Not Given
+
+
+  Previewing Student: 3
+
+	ID  		: 3
+	Name		: abid
+	Credits		: Not Given
+	CGPA		: Not Given
+	DoB		: Not Given
+	Email		: Not Given
+	Contact		: Not Given
+	Address		: Not Given
+	Blood Group	: Not Given
+	Department	: Not Given
+	Semester	: Not Given
+	Paid?		: Not Given
+	Scholarship?	: Not Given
+	Graduated?	: Not Given
+
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696197480 source:e:\nsu\cse225\lab\stack\main.cpp
+	<bits/stdc++.h>
+	"stack.h"
+	"stack.cpp"
+
+1696196249 source:e:\nsu\cse225\lab\stack\stack.cpp
+	"stack.h"
+	<bits/stdc++.h>
+
+1696196007 e:\nsu\cse225\lab\stack\stack.h
+
+1696196249 e:\nsu\cse225\lab\stack\stack.cpp
+	"stack.h"
+	<bits/stdc++.h>
+

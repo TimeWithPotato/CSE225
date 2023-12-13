@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1698942911 source:e:\nsu\cse225\lab\friend_function\main.cpp
+	<iostream>
+	"Car.h"
+	"Truck.h"
+
+1698942558 source:e:\nsu\cse225\lab\friend_function\car.cpp
+	"Car.h"
+
+1698942592 e:\nsu\cse225\lab\friend_function\car.h
+
+1698942698 source:e:\nsu\cse225\lab\friend_function\truck.cpp
+	"Truck.h"
+	"Car.h"
+
+1698942628 e:\nsu\cse225\lab\friend_function\truck.h
+	"Car.h"
+

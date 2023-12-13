@@ -1,0 +1,16 @@
+1. user variable position = 3
+2. count = 0
+3. create node called temp
+	temp.data -> 93
+	temp.next -> NULL
+4. if(count!=position)
+	node=node->next
+	count++
+   else
+	create ptr
+	ptr = node->next
+	temp->next = ptr
+	node->next = &temp
+	
+	//temp->next = ptr;
+5. Exit

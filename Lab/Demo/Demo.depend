@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1699391875 source:e:\nsu\cse225\lab\demo\main.cpp
+	<iostream>
+	"SortedList.h"
+	"SortedList.cpp"
+	"Student.h"
+
+1699391725 source:e:\nsu\cse225\lab\demo\sortedlist.cpp
+	"SortedList.h"
+	<bits/stdc++.h>
+
+1699391622 e:\nsu\cse225\lab\demo\sortedlist.h
+
+1699391725 e:\nsu\cse225\lab\demo\sortedlist.cpp
+	"SortedList.h"
+	<bits/stdc++.h>
+
+1699391744 e:\nsu\cse225\lab\demo\student.h
+	<iostream>
+	<string>
+

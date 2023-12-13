@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694968221 source:e:\nsu\cse225\lab\unsorted_list_array_based\unsortedtype\main.cpp
+	<bits/stdc++.h>
+	"UnsortedType.h"
+	"UnsortedType.cpp"
+
+1694967985 source:e:\nsu\cse225\lab\unsorted_list_array_based\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+
+1694966218 e:\nsu\cse225\lab\unsorted_list_array_based\unsortedtype\unsortedtype.h
+
+1694967985 e:\nsu\cse225\lab\unsorted_list_array_based\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+

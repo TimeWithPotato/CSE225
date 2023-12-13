@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1693773696 source:e:\nsu\cse225\lab\mid_practices\course\main.cpp
+	<bits/stdc++.h>
+	"course.h"
+	"course.cpp"
+
+1693773696 source:e:\nsu\cse225\lab\mid_practices\course\course.cpp
+	<bits/stdc++.h>
+	"course.h"
+
+1693773696 e:\nsu\cse225\lab\mid_practices\course\course.h
+
+1693773696 e:\nsu\cse225\lab\mid_practices\course\course.cpp
+	<bits/stdc++.h>
+	"course.h"
+

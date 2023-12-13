@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1699466207 source:e:\nsu\cse225\lab\student_information_system_cse225_project\main.cpp
+	<bits/stdc++.h>
+	<conio.h>
+	"SortedType.h"
+	"SortedType.cpp"
+	"DSortedList.h"
+	"DSortedList.cpp"
+	"Queue.h"
+	"Queue.cpp"
+	"QueType.h"
+	"QueType.cpp"
+	"Student.h"
+
+1699393839 source:e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype.cpp
+	<bits/stdc++.h>
+	"Sortedtype.h"
+
+1699392229 e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype.h
+
+1699460983 source:e:\nsu\cse225\lab\student_information_system_cse225_project\student.cpp
+	<bits/stdc++.h>
+	"Student.h"
+
+1699460968 e:\nsu\cse225\lab\student_information_system_cse225_project\student.h
+	<bits/stdc++.h>
+
+1699393839 e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype.cpp
+	<bits/stdc++.h>
+	"Sortedtype.h"
+
+1699397840 source:e:\nsu\cse225\lab\student_information_system_cse225_project\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1699397790 e:\nsu\cse225\lab\student_information_system_cse225_project\queue.h
+
+1699397840 e:\nsu\cse225\lab\student_information_system_cse225_project\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1699401764 source:e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype_decreasing_order(array).cpp
+	"SortedType_Decreasing_order(Array).h"
+
+1699401082 e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype_decreasing_order(array).h
+
+1699401764 e:\nsu\cse225\lab\student_information_system_cse225_project\sortedtype_decreasing_order(array).cpp
+	"SortedType_Decreasing_order(Array).h"
+
+1699440437 source:e:\nsu\cse225\lab\student_information_system_cse225_project\queue(array).cpp
+	"Queue(Array).h"
+
+1699440437 e:\nsu\cse225\lab\student_information_system_cse225_project\queue(array).h
+
+1699440437 e:\nsu\cse225\lab\student_information_system_cse225_project\queue(array).cpp
+	"Queue(Array).h"
+
+1699460968 source:e:\nsu\cse225\lab\student_information_system_cse225_project\dsortedlist.cpp
+	"DSortedList.h"
+	<bits/stdc++.h>
+
+1699460802 e:\nsu\cse225\lab\student_information_system_cse225_project\dsortedlist.h
+	<bits/stdc++.h>
+
+1699460968 e:\nsu\cse225\lab\student_information_system_cse225_project\dsortedlist.cpp
+	"DSortedList.h"
+	<bits/stdc++.h>
+
+1699409483 source:e:\nsu\cse225\lab\student_information_system_cse225_project\stack.cpp
+	"stack.h"
+	<bits/stdc++.h>
+
+1699406710 e:\nsu\cse225\lab\student_information_system_cse225_project\stack.h
+
+1699409483 e:\nsu\cse225\lab\student_information_system_cse225_project\stack.cpp
+	"stack.h"
+	<bits/stdc++.h>
+
+1699440505 source:e:\nsu\cse225\lab\student_information_system_cse225_project\quetype.cpp
+	"QueType.h"
+
+1699440437 e:\nsu\cse225\lab\student_information_system_cse225_project\quetype.h
+
+1699440505 e:\nsu\cse225\lab\student_information_system_cse225_project\quetype.cpp
+	"QueType.h"
+

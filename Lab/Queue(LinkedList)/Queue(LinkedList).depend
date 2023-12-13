@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1699198411 source:e:\nsu\cse225\lab\queue(linkedlist)\main.cpp
+	<bits/stdc++.h>
+	"Queue.h"
+	"Queue.cpp"
+
+1699198819 source:e:\nsu\cse225\lab\queue(linkedlist)\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+
+1699196365 e:\nsu\cse225\lab\queue(linkedlist)\queue.h
+
+1699198819 e:\nsu\cse225\lab\queue(linkedlist)\queue.cpp
+	"Queue.h"
+	<bits/stdc++.h>
+

@@ -1,0 +1,17 @@
+		Report on Specific ID 
+
+
+	ID  		: 2
+	Name		: najifa
+	Credits		: Not Given
+	CGPA		: Not Given
+	DoB		: Not Given
+	Email		: Not Given
+	Contact		: Not Given
+	Address		: Not Given
+	Blood Group	: Not Given
+	Department	: Not Given
+	Semester	: Not Given
+	Paid?		: Not Given
+	Scholarship?	: Not Given
+	Graduated?	: Not Given

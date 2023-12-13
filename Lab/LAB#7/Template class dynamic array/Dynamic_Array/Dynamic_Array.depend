@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1693345684 source:e:\nsu\cse225\lab\lab#7\template class dynamic array\dynamic_array\main.cpp
+	<bits/stdc++.h>
+	"dyn2DArr.h"
+	"dyn2DArr.cpp"
+
+1693344851 source:e:\nsu\cse225\lab\lab#7\template class dynamic array\dynamic_array\dyn2darr.cpp
+	<bits/stdc++.h>
+	"dyn2DArr.h"
+
+1693339851 e:\nsu\cse225\lab\lab#7\template class dynamic array\dynamic_array\dyn2darr.h
+
+1693344851 e:\nsu\cse225\lab\lab#7\template class dynamic array\dynamic_array\dyn2darr.cpp
+	<bits/stdc++.h>
+	"dyn2DArr.h"
+
